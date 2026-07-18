@@ -34,6 +34,33 @@ body::before {
 
 main, footer { width: min(1120px, calc(100% - 40px)); margin-inline: auto; }
 .hero { min-height: 680px; padding: 110px 0 80px; position: relative; }
+.language-switcher {
+  position: absolute;
+  top: 36px;
+  right: 0;
+  display: inline-flex;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(11, 16, 24, .82);
+}
+.language-switcher button {
+  min-width: 42px;
+  min-height: 34px;
+  padding: 0 10px;
+  border: 0;
+  border-radius: 999px;
+  color: var(--muted);
+  background: transparent;
+  font: inherit;
+  font-size: .75rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  cursor: pointer;
+}
+.language-switcher button[aria-pressed="true"] { color: #001117; background: var(--cyan); }
+.language-switcher button:hover:not([aria-pressed="true"]) { color: var(--cyan); }
+.language-switcher button:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }
 .eyebrow, .section-label {
   color: var(--cyan);
   font-size: .75rem;
@@ -88,6 +115,7 @@ footer a { color: var(--cyan); }
 @media (max-width: 720px) {
   main, footer { width: min(100% - 28px, 1120px); }
   .hero { min-height: auto; padding: 70px 0 90px; }
+  .language-switcher { top: 20px; }
   h1 { font-size: clamp(3.25rem, 17vw, 5.5rem); }
   .stats, .format-grid { grid-template-columns: 1fr; }
   .stats article { border-right: 0; border-bottom: 1px solid var(--line); }
