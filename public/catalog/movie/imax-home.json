@@ -9,6 +9,14 @@
       "description": "IMAX 1.43:1 / 1.85:1 · secuencias expandidas"
     },
     {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://images.metahub.space/poster/medium/tt33764258/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt26743210",
       "type": "movie",
       "name": "How to Train Your Dragon (2025)",

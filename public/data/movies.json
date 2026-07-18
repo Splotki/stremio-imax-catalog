@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T00:22:06.200Z",
+  "generatedAt": "2026-07-18T01:19:13.809Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 97,
@@ -57,7 +57,7 @@
       "homeRatios": [],
       "coverage": "full",
       "homeExpandedAvailable": false,
-      "notes": "25 September 2026 **+ Originally released in 2019. Re-release featuring \"custom introduction, additional new footage, and a special end tag exclusive to Infinity Vision and Imax releases.\" Aspect ratio opens up to 1.90:1 for the entire film.",
+      "notes": "25 September 2026 **+ Originally released in 2019. Re-release featuring \"custom introduction, additional new footage, and a special end tag exclusive to Infinity Vision and IMAX releases.\" Aspect ratio opens up to 1.90:1 for the entire film.",
       "sourcePage": "Avengers:_Endgame",
       "imdbId": "tt4154796"
     },
@@ -215,10 +215,12 @@
         "1.43:1",
         "1.90:1"
       ],
-      "homeRatios": [],
-      "coverage": "unknown",
-      "homeExpandedAvailable": false,
-      "notes": "17 July 2026 ***+ First feature film to be shot entirely with IMAX 65mm cameras. Presented in an expanded 1.43:1 aspect ratio on 70mm Film at IMAX GT Venues and Digital at IMAX GT Laser Venues. Presented in 1.90:1 for IMAX Digital Venues.",
+      "homeRatios": [
+        "1.78:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "17 July 2026 ***+ First feature film to be shot entirely with IMAX 65mm cameras. Presented in an expanded 1.43:1 aspect ratio on 70mm Film at IMAX GT Venues and Digital at IMAX GT Laser Venues. Presented in 1.90:1 for IMAX Digital Venues. Home media retained the expanded aspect ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
       "sourcePage": "The_Odyssey_(2026_film)",
       "imdbId": "tt33764258"
     },
