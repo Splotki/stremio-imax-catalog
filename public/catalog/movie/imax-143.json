@@ -1,0 +1,270 @@
+{
+  "metas": [
+    {
+      "id": "tt34900169",
+      "type": "movie",
+      "name": "Panic Carefully",
+      "poster": "https://images.metahub.space/poster/medium/tt34900169/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.43:1 / 1.90:1 · película completa"
+    },
+    {
+      "id": "tt16360004",
+      "type": "movie",
+      "name": "Spider-Man: Beyond the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/medium/tt16360004/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.43:1 · película completa"
+    },
+    {
+      "id": "tt34384661",
+      "type": "movie",
+      "name": "Godzilla Minus Zero",
+      "poster": "https://images.metahub.space/poster/medium/tt34384661/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://images.metahub.space/poster/medium/tt12042730/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.43:1 / 1.85:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt30825738",
+      "type": "movie",
+      "name": "Star Wars: The Mandalorian and Grogu",
+      "poster": "https://images.metahub.space/poster/medium/tt30825738/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt30851137",
+      "type": "movie",
+      "name": "The Bride!",
+      "poster": "https://images.metahub.space/poster/medium/tt30851137/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.90:1 / 1.43:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "The Odyssey",
+      "poster": "https://images.metahub.space/poster/medium/tt33764258/img",
+     …32832 tokens truncated…[
+        "1.78:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "17 December 2010 ***+ In 3D. Filmed with the Fusion Camera System . 45 minutes printed with a 1.78:1 aspect ratio for IMAX 70mm prints and 1.90:1 for IMAX Digital. Preserved on home media in 1.78:1 (16:9) aspect ratio.",
+      "sourcePage": "Tron:_Legacy",
+      "imdbId": "tt1104001"
+    },
+    {
+      "pageTitle": "Avatar (2009 film)",
+      "title": "James Cameron's Avatar",
+      "year": 2009,
+      "theatricalRatios": [],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "18 December 2009 ***+ In 3D (conversion). Exclusive 1.78:1 aspect ratio. Filmed with the Fusion Camera System . Screened with no end credits in some theaters with older IMAX equipment which had platter size limits. Re-released 23 September 2022 in 4K HDR, with select scenes in HFR (48fps).",
+      "sourcePage": "Avatar_(2009_film)",
+      "imdbId": "tt0499549"
+    },
+    {
+      "pageTitle": "Transformers: Revenge of the Fallen",
+      "title": "Transformers: Revenge of the Fallen",
+      "year": 2009,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [
+        "1.78:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "24 June 2009 ***+ 10 minutes shot with IMAX 65mm cameras, presented in an expanded 1.43:1 aspect ratio. Preserved on home media in a cropped 1.78:1 (16:9) aspect ratio for the Walmart \"Big Screen Edition\". About half-a-minute of footage exclusive to the IMAX version.",
+      "sourcePage": "Transformers:_Revenge_of_the_Fallen",
+      "imdbId": "tt1055369"
+    },
+    {
+      "pageTitle": "Kung Fu Panda (film)",
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "6 June 2008 *** Aspect ratio cropped to 1.43:1 for IMAX 70mm prints.",
+      "sourcePage": "Kung_Fu_Panda_(film)",
+      "imdbId": "tt0441773"
+    },
+    {
+      "pageTitle": "Madagascar: Escape 2 Africa",
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "7 November 2008 *** Aspect ratio cropped to 1.43:1 for IMAX 70mm prints.",
+      "sourcePage": "Madagascar:_Escape_2_Africa",
+      "imdbId": "tt0479952"
+    },
+    {
+      "pageTitle": "The Dark Knight",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [
+        "1.78:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "18 July 2008 ***+ First American feature to be partially shot with IMAX 65mm cameras, with 30 minutes of footage in an expanded 1.43:1 aspect ratio for IMAX GT Venues. First DMR film to surpass 150 minutes. Home-Media (excl Streaming & DVD) retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
+      "sourcePage": "The_Dark_Knight",
+      "imdbId": "tt0468569"
+    },
+    {
+      "pageTitle": "Happy Feet",
+      "title": "Happy Feet",
+      "year": 2006,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "17 November 2006 * Aspect ratio cropped to 1.43:1 for IMAX 70mm prints.",
+      "sourcePage": "Happy_Feet",
+      "imdbId": "tt0366548"
+    },
+    {
+      "pageTitle": "The Ant Bully (film)",
+      "title": "The Ant Bully",
+      "year": 2006,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "28 July 2006 * In 3D. Aspect ratio cropped to 1.43:1 for IMAX 70mm prints.",
+      "sourcePage": "The_Ant_Bully_(film)",
+      "imdbId": "tt0429589"
+    },
+    {
+      "pageTitle": "Apollo 13 (film)",
+      "title": "Apollo 13",
+      "year": 2002,
+      "theatricalRatios": [],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "20 September 2002 * The first IMAX DMR film. Originally released in 1995. The 2002 re-release is 25 minutes shorter than the 35mm version due to older IMAX equipment having platter size limits, with these scenes remastered for the 2025 re-release for its 30th anniversary. Aspect ratio opened up to 1.66:1 for the 2002 re-release.",
+      "sourcePage": "Apollo_13_(film)",
+      "imdbId": "tt0112384"
+    },
+    {
+      "pageTitle": "Star Wars: Episode II – Attack of the Clones",
+      "title": "Star Wars: Episode II – Attack of the Clones",
+      "year": 2002,
+      "theatricalRatios": [
+        "1.85:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "1 November 2002 * Originally released in May 2002. 20 minutes shorter than the 35mm version due to older IMAX equipment having platter size limits. Aspect ratio cropped to 1.85:1. Closing credits changed to slide format due to platter size limits.",
+      "sourcePage": "Star_Wars:_Episode_II_–_Attack_of_the_Clones",
+      "imdbId": "tt0121765"
+    },
+    {
+      "pageTitle": "Black Panther (film)",
+      "title": "Black Panther",
+      "year": null,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "**+ In 3D (conversion) and 2D. Aspect ratio opened up to 1.90:1 for 50 minutes of the film and preserved on home media for Blu-ray 3D (in the UK) & IMAX Enhanced on Disney+ .",
+      "sourcePage": "Black_Panther_(film)",
+      "imdbId": "tt1825683"
+    },
+    {
+      "pageTitle": "Black Panther: Wakanda Forever",
+      "title": "Black Panther: Wakanda Forever",
+      "year": null,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "**+ In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opening up to 1.90:1 for 20 minutes and preserved on home media for IMAX Enhanced on Disney+.",
+      "sourcePage": "Black_Panther:_Wakanda_Forever",
+      "imdbId": "tt9114286"
+    },
+    {
+      "pageTitle": "Captain America: Brave New World",
+      "title": "Captain America: Brave New World",
+      "year": null,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "**+ In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opening up to 1.90:1 for 30 minutes and preserved on home media for IMAX Enhanced on Disney+ . The pre-show included a special version ( The Fantastic Four: First Steps ) of the IMAX Countdown.",
+      "sourcePage": "Captain_America:_Brave_New_World",
+      "imdbId": "tt14513804"
+    },
+    {
+      "pageTitle": "Dune: Part Three",
+      "title": "Dune: Part Three",
+      "year": null,
+      "theatricalRatios": [
+        "1.43:1",
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "***+ Shot partially with IMAX 65mm cameras with some scenes expanded to 1.43:1 at IMAX 70mm GT venues, IMAX Laser GT venues, and 1.90:1 at IMAX Digital Venues.",
+      "sourcePage": "Dune:_Part_Three",
+      "imdbId": "tt31378509"
+    },
+    {
+      "pageTitle": "Ghostbusters (2016 film)",
+      "title": "Ghostbusters",
+      "year": null,
+      "theatricalRatios": [
+        "1.43:1",
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "**+ In 3D (conversion). Enhanced framing technique known as \"Frame-Break\" used to enhance CGI effects, making effects travel \"outside\" the screen. 1 minute of emotional \"Portal\" scene opened up to 1.43:1 aspect ratio for IMAX GT Venues and 1.90:1 aspect ratio for IMAX Digital.",
+      "sourcePage": "Ghostbusters_(2016_film)",
+      "imdbId": "tt1289401"
+    }
+  ]
+}

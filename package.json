@@ -1,0 +1,14 @@
+{
+  "name": "stremio-imax-aspect-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-catalog.mjs",
+    "build": "node scripts/update-catalog.mjs && node scripts/validate.mjs",
+    "validate": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

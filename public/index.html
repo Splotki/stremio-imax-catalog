@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#05080d">
+  <meta name="description" content="Catálogo comunitario de películas con presentaciones IMAX 1.43:1 y 1.90:1 para Stremio.">
+  <title>IMAX Aspect Catalog para Stremio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <div class="eyebrow"><span class="status-dot"></span> Catálogo automático para Stremio</div>
+      <p class="ratio" aria-hidden="true">1.43:1 <span>/</span> 1.90:1</p>
+      <h1 id="title">Encuentra la versión que llena la pantalla.</h1>
+      <p class="lede">Un catálogo de descubrimiento para películas con encuadre IMAX expandido, actualizado desde fuentes públicas y separado por formato.</p>
+      <div class="actions">
+        <a class="primary" id="install" href="#">Instalar en Stremio</a>
+        <button class="secondary" id="copy" type="button">Copiar manifest</button>
+      </div>
+      <p class="helper" id="feedback" aria-live="polite">Este addon solo organiza el catálogo; tus otros addons proporcionan las opciones de reproducción.</p>
+    </section>
+
+    <section class="stats" aria-label="Estado del catálogo">
+      <article><strong id="movie-count">—</strong><span>películas verificadas</span></article>
+      <article><strong id="updated">—</strong><span>última actualización</span></article>
+      <article><strong>4</strong><span>catálogos especializados</span></article>
+    </section>
+
+    <section class="formats" aria-labelledby="formats-title">
+      <div>
+        <p class="section-label">FORMATOS</p>
+        <h2 id="formats-title">No todo lo que se estrena en IMAX conserva la imagen expandida en casa.</h2>
+      </div>
+      <div class="format-grid">
+        <article>
+          <span>01</span><h3>1.43:1 Full Frame</h3>
+          <p>El encuadre alto asociado con IMAX GT, proyección láser dual y copias de 70 mm.</p>
+        </article>
+        <article>
+          <span>02</span><h3>1.90:1 Expanded</h3>
+          <p>El formato digital IMAX más extendido, con hasta 26% más imagen que 2.39:1.</p>
+        </article>
+        <article>
+          <span>03</span><h3>Disponible en casa</h3>
+          <p>Películas cuya edición doméstica o servicio de streaming conserva una presentación expandida.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>Datos derivados de Wikipedia y Wikidata. Proyecto comunitario no afiliado con IMAX, IMDb ni Stremio.</p>
+    <a href="data/movies.json">Ver datos</a>
+  </footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

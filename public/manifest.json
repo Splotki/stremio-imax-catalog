@@ -1,0 +1,20 @@
+{
+  "id": "community.imax.aspect.catalog",
+  "version": "1.0.0",
+  "name": "IMAX Aspect Catalog",
+  "description": "Películas clasificadas por presentación IMAX 1.43:1, 1.90:1 y disponibilidad doméstica expandida.",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    { "type": "movie", "id": "imax-all", "name": "IMAX · Formato expandido" },
+    { "type": "movie", "id": "imax-143", "name": "IMAX · 1.43:1 Full Frame" },
+    { "type": "movie", "id": "imax-190", "name": "IMAX · 1.90:1 Expanded" },
+    { "type": "movie", "id": "imax-home", "name": "IMAX · Disponible en casa" }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false,
+    "p2p": false,
+    "adult": false
+  }
+}
