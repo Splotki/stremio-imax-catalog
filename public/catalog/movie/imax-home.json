@@ -9,6 +9,14 @@
       "description": "IMAX 1.43:1 / 1.85:1 · secuencias expandidas"
     },
     {
+      "id": "tt30825738",
+      "type": "movie",
+      "name": "Star Wars: The Mandalorian and Grogu",
+      "poster": "https://images.metahub.space/poster/medium/tt30825738/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt33764258",
       "type": "movie",
       "name": "The Odyssey",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:20:13.855Z",
+  "generatedAt": "2026-07-23T11:20:25.995Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 97,
@@ -143,10 +143,12 @@
         "1.43:1",
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.78:1"
+      ],
       "coverage": "sequences",
-      "homeExpandedAvailable": false,
-      "notes": "22 May 2026 **+ In 3D (conversion) and 2D. Filmed partially with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 for 55 minutes of the film at IMAX GT Laser Venues and 1.90:1 for IMAX Digital Venues. The pre-show included a special version of the IMAX Countdown.",
+      "homeExpandedAvailable": true,
+      "notes": "22 May 2026 **+ In 3D (conversion) and 2D. Filmed partially with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 for 55 minutes of the film at IMAX GT Laser Venues and 1.90:1 for IMAX Digital Venues. The pre-show included a special version of the IMAX Countdown. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
       "sourcePage": "The_Mandalorian_and_Grogu",
       "imdbId": "tt30825738"
     },
