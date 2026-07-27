@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-26T10:53:44.725Z",
+  "generatedAt": "2026-07-27T12:37:11.225Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 98,
+  "count": 97,
   "movies": [
     {
       "pageTitle": "Panic Carefully",
@@ -113,11 +113,12 @@
         "1.85:1"
       ],
       "homeRatios": [
-        "1.78:1"
+        "1.78:1",
+        "1.43:1"
       ],
-      "coverage": "sequences",
+      "coverage": "unknown",
       "homeExpandedAvailable": true,
-      "notes": "20 March 2026 ***+ Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 at IMAX 70mm and IMAX GT Laser venues and 1.85:1 (with Pillarboxing / Windowboxing) at IMAX Digital venues for 75% of the film. An exclusive 5-minute prologue preview of The Odyssey was attached, with the prologue being shown in an expanded 1.43:1 aspect ratio at select IMAX GT Venues (Film Only) as well as a 1.43.1 trailer for Dune: Part Three (Film & Laser). Re-released on April 17 at select IMAX locations. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
+      "notes": "20 March 2026 ***+ Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 at IMAX 70mm and IMAX GT Laser venues and 1.85:1 (with Pillarboxing / Windowboxing) at IMAX Digital venues for 75% of the film. An exclusive 5-minute prologue preview of The Odyssey was attached, with the prologue being shown in an expanded 1.43:1 aspect ratio at select IMAX GT Venues (Film Only) as well as a 1.43.1 trailer for Dune: Part Three (Film & Laser). Re-released on April 17 at select IMAX locations. Home-Media retained the expanded Aspect Ratio in both a cropped 1.78:1 (16:9) and full-frame 1.43:1 across multiple releases.",
       "sourcePage": "Project_Hail_Mary_(film)",
       "imdbId": "tt12042730"
     },
@@ -134,20 +135,6 @@
       "notes": "18 September 2026 **+ Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1.",
       "sourcePage": "Resident_Evil_(2026_film)",
       "imdbId": "tt35538033"
-    },
-    {
-      "pageTitle": "Spider-Man: Brand New Day",
-      "title": "Spider-Man: Brand New Day",
-      "year": 2026,
-      "theatricalRatios": [
-        "1.90:1"
-      ],
-      "homeRatios": [],
-      "coverage": "unknown",
-      "homeExpandedAvailable": false,
-      "notes": "31 July 2026 **+ In 3D (conversion) and 2D. Selected territories only. Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1. Also available in an expanded 1.90:1 letterboxed in Standard Flat venues.",
-      "sourcePage": "Spider-Man:_Brand_New_Day",
-      "imdbId": "tt22084616"
     },
     {
       "pageTitle": "The Mandalorian and Grogu",
