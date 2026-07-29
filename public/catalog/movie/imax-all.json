@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt6779038",
+      "type": "movie",
+      "name": "Children of Blood and Bone",
+      "poster": "https://images.metahub.space/poster/medium/tt6779038/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt34900169",
       "type": "movie",
       "name": "Panic Carefully",

@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-07-28T11:28:00.763Z",
+  "generatedAt": "2026-07-29T11:34:15.530Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 97,
+  "count": 98,
   "movies": [
+    {
+      "pageTitle": "Children of Blood and Bone (film)",
+      "title": "Children of Blood and Bone",
+      "year": 2027,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "15 January 2027 **+ Filmed with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1.",
+      "sourcePage": "Children_of_Blood_and_Bone_(film)",
+      "imdbId": "tt6779038"
+    },
     {
       "pageTitle": "Panic Carefully",
       "title": "Panic Carefully",
