@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:35:51.327Z",
+  "generatedAt": "2026-08-01T10:49:14.348Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 97,
@@ -46,20 +46,6 @@
       "notes": "18 December 2026 No Yes Yes In 3D (conversion) and 2D. Selected territories only. Filmed entirely with IMAX-certified digital cameras with aspect ratio opened up to 1.90:1 for the entire film.",
       "sourcePage": "Avengers:_Doomsday",
       "imdbId": "tt21357150"
-    },
-    {
-      "pageTitle": "Avengers: Endgame",
-      "title": "Avengers: Endgame Encore",
-      "year": 2026,
-      "theatricalRatios": [
-        "1.90:1"
-      ],
-      "homeRatios": [],
-      "coverage": "full",
-      "homeExpandedAvailable": false,
-      "notes": "25 September 2026 No Yes Yes Originally released in 2019. Re-release featuring \"custom introduction, additional new footage, and a special end tag exclusive to Infinity Vision and IMAX releases.\" Aspect ratio opens up to 1.90:1 for the entire film.",
-      "sourcePage": "Avengers:_Endgame",
-      "imdbId": "tt4154796"
     },
     {
       "pageTitle": "Godzilla Minus Zero",
@@ -874,6 +860,22 @@
       "notes": "14 February 2019 No Yes Yes In 3D and 2D. Filmed with the Fusion Camera System . Aspect ratio opened up to 1.90:1 for 40 minutes of the film. Re-released in select North American IMAX theaters on 28 October 2020.",
       "sourcePage": "Alita:_Battle_Angel",
       "imdbId": "tt0437086"
+    },
+    {
+      "pageTitle": "Avengers: Endgame",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "full",
+      "homeExpandedAvailable": true,
+      "notes": "26 April 2019 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX Arri Alexa cameras equipped with Panavision Sphero 65 & Ultra Panavision 70 lenses in 3D rigs. Presented in an expanded 1.90:1 aspect ratio for the entire film. Exclusive 5-minute preview of Godzilla: King of the Monsters attached at AMC Theatres locations in the US. Expanded 1.90:1 aspect ratio for entire runtime and preserved on home media for IMAX Enhanced on Disney+ . Re-released on 25 September 2026 in 3D (conversion) and 2D.",
+      "sourcePage": "Avengers:_Endgame",
+      "imdbId": "tt4154796"
     },
     {
       "pageTitle": "Spider-Man: Far From Home",

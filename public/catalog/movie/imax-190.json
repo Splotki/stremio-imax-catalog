@@ -17,14 +17,6 @@
       "description": "IMAX 1.90:1 · película completa"
     },
     {
-      "id": "tt4154796",
-      "type": "movie",
-      "name": "Avengers: Endgame Encore",
-      "poster": "https://images.metahub.space/poster/medium/tt4154796/img",
-      "releaseInfo": "2026",
-      "description": "IMAX 1.90:1 · película completa"
-    },
-    {
       "id": "tt34384661",
       "type": "movie",
       "name": "Godzilla Minus Zero",
@@ -399,6 +391,14 @@
       "poster": "https://images.metahub.space/poster/medium/tt0437086/img",
       "releaseInfo": "2019",
       "description": "IMAX 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt4154796",
+      "type": "movie",
+      "name": "Avengers: Endgame",
+      "poster": "https://images.metahub.space/poster/medium/tt4154796/img",
+      "releaseInfo": "2019",
+      "description": "IMAX 1.90:1 · película completa"
     },
     {
       "id": "tt6320628",
