@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-08-15T09:40:57.909Z",
+  "generatedAt": "2026-08-16T09:42:28.672Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 97,
+  "count": 98,
   "movies": [
+    {
+      "pageTitle": "Avengers: Secret Wars",
+      "title": "Avengers: Secret Wars",
+      "year": 2027,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "full",
+      "homeExpandedAvailable": false,
+      "notes": "17 December 2027 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for the entire film.",
+      "sourcePage": "Avengers:_Secret_Wars",
+      "imdbId": "tt21361444"
+    },
     {
       "pageTitle": "Panic Carefully",
       "title": "Panic Carefully",

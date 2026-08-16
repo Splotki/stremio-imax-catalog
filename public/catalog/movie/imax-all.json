@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt21361444",
+      "type": "movie",
+      "name": "Avengers: Secret Wars",
+      "poster": "https://images.metahub.space/poster/medium/tt21361444/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.90:1 · película completa"
+    },
+    {
       "id": "tt34900169",
       "type": "movie",
       "name": "Panic Carefully",
