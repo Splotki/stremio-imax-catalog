@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T09:52:37.907Z",
+  "generatedAt": "2026-08-22T09:43:06.931Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 98,
+  "count": 99,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -137,6 +137,20 @@
       "imdbId": "tt35538033"
     },
     {
+      "pageTitle": "Spider-Man: Brand New Day",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "31 July 2026 No Yes Yes China, Japan, and South Korea only. Expanded to select domestic theaters on 7 August 2026. Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1. Also available in an expanded 1.90:1 letterboxed format in Standard Flat venues.",
+      "sourcePage": "Spider-Man:_Brand_New_Day",
+      "imdbId": "tt22084616"
+    },
+    {
       "pageTitle": "The Mandalorian and Grogu",
       "title": "Star Wars: The Mandalorian and Grogu",
       "year": 2026,
@@ -218,13 +232,10 @@
         "1.43:1",
         "1.90:1"
       ],
-      "homeRatios": [
-        "1.78:1",
-        "1.43:1"
-      ],
+      "homeRatios": [],
       "coverage": "unknown",
-      "homeExpandedAvailable": true,
-      "notes": "17 July 2026 Yes Yes Yes First feature film to be shot entirely with IMAX 65mm cameras. Presented in an expanded 1.43:1 aspect ratio on 70mm Film at IMAX GT Venues and Digital at IMAX GT Laser Venues. Presented in 1.90:1 for IMAX Digital Venues. Home-Media retained the expanded Aspect Ratio in both a cropped 1.78:1 (16:9) and full-frame 1.43:1 across multiple releases.",
+      "homeExpandedAvailable": false,
+      "notes": "17 July 2026 Yes Yes Yes First feature film to be shot entirely with IMAX 65mm cameras. Presented in an expanded 1.43:1 aspect ratio on 70mm Film at IMAX GT Venues and Digital at IMAX GT Laser Venues. Presented in 1.90:1 for IMAX Digital Venues.",
       "sourcePage": "The_Odyssey_(2026_film)",
       "imdbId": "tt33764258"
     },
