@@ -9,12 +9,28 @@
       "description": "IMAX 1.90:1 · película completa"
     },
     {
+      "id": "tt6779038",
+      "type": "movie",
+      "name": "Children of Blood and Bone",
+      "poster": "https://images.metahub.space/poster/medium/tt6779038/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.90:1 · película completa"
+    },
+    {
       "id": "tt34900169",
       "type": "movie",
       "name": "Panic Carefully",
       "poster": "https://images.metahub.space/poster/medium/tt34900169/img",
       "releaseInfo": "2027",
       "description": "IMAX 1.43:1 / 1.90:1 · película completa"
+    },
+    {
+      "id": "tt5500064",
+      "type": "movie",
+      "name": "The Thomas Crown Affair",
+      "poster": "https://images.metahub.space/poster/medium/tt5500064/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.90:1 · película completa"
     },
     {
       "id": "tt21357150",
@@ -101,6 +117,14 @@
       "type": "movie",
       "name": "The End of Oak Street",
       "poster": "https://images.metahub.space/poster/medium/tt27165187/img",
+      "releaseInfo": "2026",
+      "description": "IMAX 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt32558705",
+      "type": "movie",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "poster": "https://images.metahub.space/poster/medium/tt32558705/img",
       "releaseInfo": "2026",
       "description": "IMAX 1.90:1 · secuencias expandidas"
     },
@@ -253,6 +277,14 @@
       "type": "movie",
       "name": "Creed III",
       "poster": "https://images.metahub.space/poster/medium/tt11145118/img",
+      "releaseInfo": "2023",
+      "description": "IMAX 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt4495098",
+      "type": "movie",
+      "name": "Gran Turismo",
+      "poster": "https://images.metahub.space/poster/medium/tt4495098/img",
       "releaseInfo": "2023",
       "description": "IMAX 1.90:1 · secuencias expandidas"
     },

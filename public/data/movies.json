@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T17:04:18.100Z",
+  "generatedAt": "2026-09-01T14:09:14.541Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 99,
+  "count": 103,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -17,6 +17,20 @@
       "notes": "17 December 2027 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for the entire film.",
       "sourcePage": "Avengers:_Secret_Wars",
       "imdbId": "tt21361444"
+    },
+    {
+      "pageTitle": "Children of Blood and Bone (film)",
+      "title": "Children of Blood and Bone",
+      "year": 2027,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "full",
+      "homeExpandedAvailable": false,
+      "notes": "15 January 2027 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for the entire film.",
+      "sourcePage": "Children_of_Blood_and_Bone_(film)",
+      "imdbId": "tt6779038"
     },
     {
       "pageTitle": "Panic Carefully",
@@ -46,6 +60,20 @@
       "notes": "18 June 2027 No Yes Yes Aspect ratio opens up to 1.43:1 for the entire film. Home media release to retain IMAX aspect ratio on Sony Pictures Core .",
       "sourcePage": "Spider-Man:_Beyond_the_Spider-Verse",
       "imdbId": "tt16360004"
+    },
+    {
+      "pageTitle": "The Thomas Crown Affair (2027 film)",
+      "title": "The Thomas Crown Affair",
+      "year": 2027,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "full",
+      "homeExpandedAvailable": false,
+      "notes": "5 March 2027 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for the entire film.",
+      "sourcePage": "The_Thomas_Crown_Affair_(2027_film)",
+      "imdbId": "tt5500064"
     },
     {
       "pageTitle": "Avengers: Doomsday",
@@ -223,6 +251,20 @@
       "notes": "14 August 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras with aspect ratio opens up to 1.90:1 for 40 minutes.",
       "sourcePage": "The_End_of_Oak_Street",
       "imdbId": "tt27165187"
+    },
+    {
+      "pageTitle": "The Hunger Games: Sunrise on the Reaping",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": 2026,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "20 November 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1.",
+      "sourcePage": "The_Hunger_Games:_Sunrise_on_the_Reaping",
+      "imdbId": "tt32558705"
     },
     {
       "pageTitle": "The Odyssey (2026 film)",
@@ -570,6 +612,20 @@
       "notes": "3 March 2023 No Yes Yes Select-sequences filmed with IMAX-certified Sony CineAlta VENICE cameras, presented in 1.90:1 for approximately 26 minutes.",
       "sourcePage": "Creed_III",
       "imdbId": "tt11145118"
+    },
+    {
+      "pageTitle": "Gran Turismo (film)",
+      "title": "Gran Turismo",
+      "year": 2023,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "11 August 2023 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras, Presented in 1.90:1 on all screens.",
+      "sourcePage": "Gran_Turismo_(film)",
+      "imdbId": "tt4495098"
     },
     {
       "pageTitle": "Guardians of the Galaxy Vol. 3",
