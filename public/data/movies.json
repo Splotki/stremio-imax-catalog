@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:41:12.711Z",
+  "generatedAt": "2026-09-03T13:35:33.012Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 103,
@@ -158,9 +158,9 @@
         "1.90:1"
       ],
       "homeRatios": [],
-      "coverage": "unknown",
+      "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "18 September 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1.",
+      "notes": "18 September 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for 33 minutes.",
       "sourcePage": "Resident_Evil_(2026_film)",
       "imdbId": "tt35538033"
     },
