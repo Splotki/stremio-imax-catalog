@@ -9,14 +9,6 @@
       "description": "IMAX 1.90:1 · película completa"
     },
     {
-      "id": "tt6779038",
-      "type": "movie",
-      "name": "Children of Blood and Bone",
-      "poster": "https://images.metahub.space/poster/medium/tt6779038/img",
-      "releaseInfo": "2027",
-      "description": "IMAX 1.90:1 · película completa"
-    },
-    {
       "id": "tt34900169",
       "type": "movie",
       "name": "Panic Carefully",
@@ -38,7 +30,7 @@
       "name": "The Thomas Crown Affair",
       "poster": "https://images.metahub.space/poster/medium/tt5500064/img",
       "releaseInfo": "2027",
-      "description": "IMAX 1.90:1 · película completa"
+      "description": "IMAX 1.90:1 · secuencias expandidas"
     },
     {
       "id": "tt21357150",
