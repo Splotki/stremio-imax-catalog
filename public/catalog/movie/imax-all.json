@@ -497,6 +497,14 @@
       "description": "IMAX 1.90:1 · película completa"
     },
     {
+      "id": "tt4154664",
+      "type": "movie",
+      "name": "Captain Marvel",
+      "poster": "https://images.metahub.space/poster/medium/tt4154664/img",
+      "releaseInfo": "2019",
+      "description": "IMAX 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt6320628",
       "type": "movie",
       "name": "Spider-Man: Far From Home",
@@ -810,6 +818,13 @@
       "name": "Ghostbusters",
       "poster": "https://images.metahub.space/poster/medium/tt1289401/img",
       "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt3829920",
+      "type": "movie",
+      "name": "Only the Brave",
+      "poster": "https://images.metahub.space/poster/medium/tt3829920/img",
+      "description": "IMAX 1.90:1 · película completa"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T13:32:43.202Z",
+  "generatedAt": "2026-09-05T12:43:33.389Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 102,
+  "count": 104,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -143,10 +143,12 @@
       "theatricalRatios": [
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.90:1"
+      ],
       "coverage": "sequences",
-      "homeExpandedAvailable": false,
-      "notes": "18 September 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for 33 minutes.",
+      "homeExpandedAvailable": true,
+      "notes": "18 September 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for 33 minutes. Preserved on home media for IMAX Enhanced on Sony Pictures Core .",
       "sourcePage": "Resident_Evil_(2026_film)",
       "imdbId": "tt35538033"
     },
@@ -157,10 +159,12 @@
       "theatricalRatios": [
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.90:1"
+      ],
       "coverage": "unknown",
-      "homeExpandedAvailable": false,
-      "notes": "31 July 2026 No Yes Yes China, Japan, and South Korea only. Expanded to select domestic theaters on 7 August 2026. Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1. Also available in an expanded 1.90:1 letterboxed format in Standard Flat venues.",
+      "homeExpandedAvailable": true,
+      "notes": "31 July 2026 No Yes Yes China, Japan, and South Korea only. Expanded to select domestic theaters on 7 August 2026. Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1. Also available in an expanded 1.90:1 letterboxed format in Standard Flat venues. Preserved on home media for IMAX Enhanced on Sony Pictures Core .",
       "sourcePage": "Spider-Man:_Brand_New_Day",
       "imdbId": "tt22084616"
     },
@@ -173,11 +177,12 @@
         "1.90:1"
       ],
       "homeRatios": [
+        "1.43:1",
         "1.78:1"
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "22 May 2026 No Yes Yes In 3D (conversion) and 2D. Filmed partially with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 for 55 minutes of the film at IMAX GT Laser Venues and 1.90:1 for IMAX Digital Venues. The pre-show included a special version of the IMAX Countdown. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
+      "notes": "22 May 2026 No Yes Yes In 3D (conversion) and 2D. Filmed partially with IMAX-certified digital cameras with an aspect ratio opened up to 1.43:1 for 55 minutes of the film at IMAX GT Laser Venues and 1.90:1 for IMAX Digital Venues. The pre-show included a special version of the IMAX Countdown. Home-Media retained the expanded Aspect Ratio for Physical Media and IMAX Enhanced on Disney+ with the 1.43:1 IMAX scenes in a cropped 1.78:1 (16:9).",
       "sourcePage": "The_Mandalorian_and_Grogu",
       "imdbId": "tt30825738"
     },
@@ -606,10 +611,12 @@
       "theatricalRatios": [
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.90:1"
+      ],
       "coverage": "unknown",
-      "homeExpandedAvailable": false,
-      "notes": "11 August 2023 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras, Presented in 1.90:1 on all screens.",
+      "homeExpandedAvailable": true,
+      "notes": "11 August 2023 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras, Presented in 1.90:1 on all screens. Preserved on home media for IMAX Enhanced on Sony Pictures Core .",
       "sourcePage": "Gran_Turismo_(film)",
       "imdbId": "tt4495098"
     },
@@ -866,7 +873,7 @@
       ],
       "coverage": "full",
       "homeExpandedAvailable": true,
-      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core .",
+      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ .",
       "sourcePage": "Spider-Man:_No_Way_Home",
       "imdbId": "tt10872600"
     },
@@ -946,6 +953,22 @@
       "imdbId": "tt4154796"
     },
     {
+      "pageTitle": "Captain Marvel (film)",
+      "title": "Captain Marvel",
+      "year": 2019,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "8 March 2019 No Yes Yes Released in 2D in North America and England. Released in 3D (conversion) in other territories. Aspect ratio opened up to 1.90:1 for 35 minutes of the film and preserved on home media for IMAX Enhanced on Disney+ .",
+      "sourcePage": "Captain_Marvel_(film)",
+      "imdbId": "tt4154664"
+    },
+    {
       "pageTitle": "Spider-Man: Far From Home",
       "title": "Spider-Man: Far From Home",
       "year": 2019,
@@ -957,7 +980,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "2 July 2019 No Yes Yes In 3D (conversion) and 2D. Aspect ratio opened up to 1.90:1 for 45 minutes of the film and preserved on home media for IMAX Enhanced on Sony Pictures Core . Re-released as an extended cut on 30 August with aspect ratio opened up to 1.90:1 for 50 minutes of the film.",
+      "notes": "2 July 2019 No Yes Yes In 3D (conversion) and 2D. Aspect ratio opened up to 1.90:1 for 45 minutes of the film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ . Re-released as an extended cut on 30 August with aspect ratio opened up to 1.90:1 for 50 minutes of the film.",
       "sourcePage": "Spider-Man:_Far_From_Home",
       "imdbId": "tt6320628"
     },
@@ -1539,12 +1562,30 @@
         "1.43:1",
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.78:1"
+      ],
       "coverage": "sequences",
-      "homeExpandedAvailable": false,
-      "notes": "No Yes Yes In 3D (conversion). Enhanced framing technique known as \"Frame-Break\" used to enhance CGI effects, making effects travel \"outside\" the screen. 1 minute of emotional \"Portal\" scene opened up to 1.43:1 aspect ratio for IMAX GT Venues and 1.90:1 aspect ratio for IMAX Digital.",
+      "homeExpandedAvailable": true,
+      "notes": "No Yes Yes In 3D (conversion). Enhanced framing technique known as \"Frame-Break\" used to enhance CGI effects, making effects travel \"outside\" the screen. 1 minute of emotional \"Portal\" scene opened up to 1.43:1 aspect ratio for IMAX GT Venues and 1.90:1 aspect ratio for IMAX Digital. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for the Portal Sequence & IMAX Enhanced on Sony Pictures Core .",
       "sourcePage": "Ghostbusters_(2016_film)",
       "imdbId": "tt1289401"
+    },
+    {
+      "pageTitle": "Only the Brave (2017 film)",
+      "title": "Only the Brave",
+      "year": null,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [
+        "1.90:1"
+      ],
+      "coverage": "full",
+      "homeExpandedAvailable": true,
+      "notes": "No Yes Yes Selected territories only. Limited engagement. Aspect ratio opened up to 1.90:1 for the entire film. Preserved on home media Locked to 2.39:1 for IMAX Enhanced on Sony Pictures Core .",
+      "sourcePage": "Only_the_Brave_(2017_film)",
+      "imdbId": "tt3829920"
     }
   ]
 }
