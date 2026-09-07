@@ -233,6 +233,14 @@
       "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
     },
     {
+      "id": "tt1951264",
+      "type": "movie",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt1951264/img",
+      "releaseInfo": "2013",
+      "description": "IMAX 1.43:1 · secuencias expandidas"
+    },
+    {
       "id": "tt1345836",
       "type": "movie",
       "name": "The Dark Knight Rises",

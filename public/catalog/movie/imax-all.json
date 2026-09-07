@@ -681,6 +681,14 @@
       "description": "IMAX 1.90:1 · secuencias expandidas"
     },
     {
+      "id": "tt1951264",
+      "type": "movie",
+      "name": "The Hunger Games: Catching Fire",
+      "poster": "https://images.metahub.space/poster/medium/tt1951264/img",
+      "releaseInfo": "2013",
+      "description": "IMAX 1.43:1 · secuencias expandidas"
+    },
+    {
       "id": "tt0120338",
       "type": "movie",
       "name": "James Cameron's Titanic",

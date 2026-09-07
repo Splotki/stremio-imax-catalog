@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T12:53:12.279Z",
+  "generatedAt": "2026-09-07T15:03:51.097Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 104,
+  "count": 105,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -1300,12 +1300,30 @@
       "theatricalRatios": [
         "1.90:1"
       ],
-      "homeRatios": [],
+      "homeRatios": [
+        "1.78:1"
+      ],
       "coverage": "sequences",
-      "homeExpandedAvailable": false,
-      "notes": "17 May 2013 Yes Yes Yes In 3D (conversion). 30 minutes shot with IMAX 65mm cameras, in expanded 1.66:1 and 1.90:1 aspect ratios for IMAX GT and IMAX Digital Venues.",
+      "homeExpandedAvailable": true,
+      "notes": "17 May 2013 Yes Yes Yes In 3D (conversion). 30 minutes shot with IMAX 65mm cameras, in expanded 1.66:1 and 1.90:1 aspect ratios for IMAX GT and IMAX Digital Venues. Home-Media (4K Blu-ray) retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
       "sourcePage": "Star_Trek_Into_Darkness",
       "imdbId": "tt1408101"
+    },
+    {
+      "pageTitle": "The Hunger Games: Catching Fire",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [
+        "1.78:1"
+      ],
+      "coverage": "sequences",
+      "homeExpandedAvailable": true,
+      "notes": "22 November 2013 Yes Yes Yes 50-minute expanded 1.43:1 aspect ratio arena battle sequence shot with IMAX 65mm cameras. Home-Media (Blu-ray & DVD) retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
+      "sourcePage": "The_Hunger_Games:_Catching_Fire",
+      "imdbId": "tt1951264"
     },
     {
       "pageTitle": "Titanic (1997 film)",
