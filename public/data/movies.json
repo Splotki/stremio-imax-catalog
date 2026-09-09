@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T13:39:11.580Z",
+  "generatedAt": "2026-09-09T13:43:51.271Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 105,
+  "count": 107,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -46,6 +46,21 @@
       "notes": "18 June 2027 No Yes Yes Aspect ratio opens up to 1.43:1 for the entire film. Home media release to retain IMAX aspect ratio on Sony Pictures Core .",
       "sourcePage": "Spider-Man:_Beyond_the_Spider-Verse",
       "imdbId": "tt16360004"
+    },
+    {
+      "pageTitle": "Star Wars: Starfighter",
+      "title": "Star Wars: Starfighter",
+      "year": 2027,
+      "theatricalRatios": [
+        "1.43:1",
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "28 May 2027 Yes Yes Yes In 3D (conversion) and 2D. Filmed partially with IMAX-certified digital cameras. with select scenes expanded to 1.43:1 at IMAX 70mm GT venues, IMAX Laser GT venues, and 1.90:1 at IMAX Digital Venues.",
+      "sourcePage": "Star_Wars:_Starfighter",
+      "imdbId": "tt28069611"
     },
     {
       "pageTitle": "The Thomas Crown Affair (2027 film)",
@@ -654,6 +669,20 @@
       "imdbId": "tt15398776"
     },
     {
+      "pageTitle": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023,
+      "theatricalRatios": [
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "17 November 2023 No Yes Yes Filmed entirely with IMAX-certified Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for select-sequences.",
+      "sourcePage": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
+      "imdbId": "tt10545296"
+    },
+    {
       "pageTitle": "The Marvels",
       "title": "The Marvels",
       "year": 2023,
@@ -665,7 +694,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "10 November 2023 No Yes Yes In 3D (conversion) and 2D. Aspect ratio opened up to 1.90:1 for 30 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
+      "notes": "10 November 2023 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified cameras. Aspect ratio opened up to 1.90:1 for 30 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "The_Marvels",
       "imdbId": "tt10676048"
     },

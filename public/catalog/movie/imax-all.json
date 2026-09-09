@@ -25,6 +25,14 @@
       "description": "IMAX 1.43:1 · película completa"
     },
     {
+      "id": "tt28069611",
+      "type": "movie",
+      "name": "Star Wars: Starfighter",
+      "poster": "https://images.metahub.space/poster/medium/tt28069611/img",
+      "releaseInfo": "2027",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt5500064",
       "type": "movie",
       "name": "The Thomas Crown Affair",
@@ -343,6 +351,14 @@
       "poster": "https://images.metahub.space/poster/medium/tt15398776/img",
       "releaseInfo": "2023",
       "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "poster": "https://images.metahub.space/poster/medium/tt10545296/img",
+      "releaseInfo": "2023",
+      "description": "IMAX 1.90:1 · secuencias expandidas"
     },
     {
       "id": "tt10676048",
