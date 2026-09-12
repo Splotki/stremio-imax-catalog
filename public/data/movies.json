@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T13:34:51.284Z",
+  "generatedAt": "2026-09-12T12:51:52.353Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 107,
+  "count": 106,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -115,7 +115,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "23 January 2026 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 60 minutes. Enhanced framing technique known as \"Frame-Break\" used to enhance CGI effects, making effects travel \"outside\" the screen.",
+      "notes": "23 January 2026 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 60 minutes. Enhanced framing technique known as \"Frame-Break\" used to enhance CGI effects, making effects travel \"outside\" the screen.",
       "sourcePage": "Mercy_(2026_film)",
       "imdbId": "tt31050594"
     },
@@ -177,9 +177,9 @@
       "homeRatios": [
         "1.90:1"
       ],
-      "coverage": "unknown",
+      "coverage": "full",
       "homeExpandedAvailable": true,
-      "notes": "31 July 2026 No Yes Yes China, Japan, and South Korea only. Expanded to select domestic theaters on 7 August 2026. Aspect ratio opens up to 1.90:1. Also available in an expanded 1.90:1 letterboxed format in Standard Flat venues. Preserved on home media for IMAX Enhanced on Sony Pictures Core .",
+      "notes": "31 July 2026 No Yes Yes China, Japan, and South Korea only. Expanded to select domestic theaters on 7 August 2026. Aspect ratio opened up to 1.90:1 for the entire film. Also available in an expanded 1.90:1 letterboxed format in Standard Flat venues. Preserved on home media for IMAX Enhanced on Sony Pictures Core .",
       "sourcePage": "Spider-Man:_Brand_New_Day",
       "imdbId": "tt22084616"
     },
@@ -225,7 +225,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "26 June 2026 No Yes Yes Released in 2D in select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for 52 minutes.",
+      "notes": "26 June 2026 No Yes Yes Released in 2D in select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras. Aspect ratio opens up to 1.90:1 for 52 minutes.",
       "sourcePage": "Supergirl_(2026_film)",
       "imdbId": "tt8814476"
     },
@@ -240,7 +240,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "6 March 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 55 minutes. 15 minutes of the film also opened up to 1.43:1 in IMAX GT Laser venues.",
+      "notes": "6 March 2026 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 55 minutes. 15 minutes of the film also opened up to 1.43:1 in IMAX GT Laser venues.",
       "sourcePage": "The_Bride!",
       "imdbId": "tt30851137"
     },
@@ -254,7 +254,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "14 August 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras with aspect ratio opens up to 1.90:1 for 40 minutes.",
+      "notes": "14 August 2026 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with aspect ratio opens up to 1.90:1 for 40 minutes.",
       "sourcePage": "The_End_of_Oak_Street",
       "imdbId": "tt27165187"
     },
@@ -312,7 +312,7 @@
       "homeRatios": [],
       "coverage": "full",
       "homeExpandedAvailable": false,
-      "notes": "27 June 2025 No Yes Yes Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for the entire film.",
+      "notes": "27 June 2025 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for the entire film.",
       "sourcePage": "F1_(film)",
       "imdbId": "tt16311594"
     },
@@ -326,7 +326,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "16 May 2025 No Yes Yes Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 50 minutes.",
+      "notes": "16 May 2025 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 50 minutes.",
       "sourcePage": "Final_Destination_Bloodlines",
       "imdbId": "tt9619824"
     },
@@ -342,7 +342,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "13 June 2025 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 50 minutes. Home media retained the expanded aspect ratio for IMAX scenes.",
+      "notes": "13 June 2025 No Yes Yes In 3D (conversion) and 2D. Select sequences filmed with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 50 minutes. Home media retained the expanded aspect ratio for IMAX scenes.",
       "sourcePage": "How_to_Train_Your_Dragon_(2025_film)",
       "imdbId": "tt26743210"
     },
@@ -358,7 +358,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "23 May 2025 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 45 minutes. Home media retained the expanded aspect ratio for IMAX scenes.",
+      "notes": "23 May 2025 No Yes Yes Filmed almost entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 45 minutes. Home media retained the expanded aspect ratio for IMAX scenes.",
       "sourcePage": "Mission:_Impossible_–_The_Final_Reckoning",
       "imdbId": "tt9603208"
     },
@@ -438,7 +438,7 @@
       ],
       "coverage": "full",
       "homeExpandedAvailable": true,
-      "notes": "25 July 2025 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for the entire film. 5 minutes of the film also opened up to 1.43:1 in IMAX GT Laser Venues. The pre-show included a special version of the IMAX Countdown. Home media retained the expanded aspect ratio for IMAX Enhanced on Disney+ with the 1.43:1 IMAX scenes in a cropped 1.78:1 (16:9).",
+      "notes": "25 July 2025 No Yes Yes In 3D (conversion) and 2D. Filmed almost entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for the entire film. 5 minutes of the film also opened up to 1.43:1 in IMAX GT Laser Venues. The pre-show included a special version of the IMAX Countdown. Home media retained the expanded aspect ratio for IMAX Enhanced on Disney+ with the 1.43:1 IMAX scenes in a cropped 1.78:1 (16:9).",
       "sourcePage": "The_Fantastic_Four:_First_Steps",
       "imdbId": "tt10676052"
     },
@@ -450,9 +450,9 @@
         "1.43:1"
       ],
       "homeRatios": [],
-      "coverage": "unknown",
+      "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "22 September 2025 No Yes Yes Limited engagement. Shot with IMAX 65mm cameras. Ending opened up to 1.43.1 in all theaters.",
+      "notes": "22 September 2025 No Yes Yes Limited engagement. Ending scene shot with IMAX 65mm cameras with the scene opening up to 1.43.1 in all theaters.",
       "sourcePage": "The_Smashing_Machine_(2025_film)",
       "imdbId": "tt11214558"
     },
@@ -575,7 +575,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "17 February 2023 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified cameras, presented in 1.90:1 for 35 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
+      "notes": "17 February 2023 No Yes Yes In 3D (conversion) and 2D. Select sequences filmed with IMAX-certified cameras, presented in 1.90:1 for 35 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "Ant-Man_and_the_Wasp:_Quantumania",
       "imdbId": "tt10954600"
     },
@@ -615,7 +615,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "3 March 2023 No Yes Yes Select-sequences filmed with IMAX-certified Sony CineAlta VENICE cameras, presented in 1.90:1 for approximately 26 minutes.",
+      "notes": "3 March 2023 No Yes Yes Select sequences filmed with IMAX-certified Sony CineAlta VENICE cameras, presented in 1.90:1 for approximately 26 minutes.",
       "sourcePage": "Creed_III",
       "imdbId": "tt11145118"
     },
@@ -669,20 +669,6 @@
       "imdbId": "tt15398776"
     },
     {
-      "pageTitle": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "year": 2023,
-      "theatricalRatios": [
-        "1.90:1"
-      ],
-      "homeRatios": [],
-      "coverage": "sequences",
-      "homeExpandedAvailable": false,
-      "notes": "17 November 2023 No Yes Yes Filmed entirely with IMAX-certified Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for select-sequences.",
-      "sourcePage": "The_Hunger_Games:_The_Ballad_of_Songbirds_&_Snakes",
-      "imdbId": "tt10545296"
-    },
-    {
       "pageTitle": "The Marvels",
       "title": "The Marvels",
       "year": 2023,
@@ -694,7 +680,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "10 November 2023 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified cameras. Aspect ratio opened up to 1.90:1 for 30 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
+      "notes": "10 November 2023 No Yes Yes In 3D (conversion) and 2D. Aspect ratio opened up to 1.90:1 for 30 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "The_Marvels",
       "imdbId": "tt10676048"
     },
@@ -726,7 +712,7 @@
       ],
       "coverage": "unknown",
       "homeExpandedAvailable": true,
-      "notes": "6 May 2022 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras. An exclusive 5-minute preview of Top Gun: Maverick was attached and was shown in the expanded aspect ratio of 1.90:1 and preserved on home media for IMAX Enhanced on Disney+.",
+      "notes": "6 May 2022 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras. An exclusive 5-minute preview of Top Gun: Maverick was attached and was shown in the expanded aspect ratio of 1.90:1 and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "Doctor_Strange_in_the_Multiverse_of_Madness",
       "imdbId": "tt9419884"
     },
@@ -774,7 +760,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "8 July 2022 No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 35 minutes and preserved on home media for IMAX Enhanced on Disney+.",
+      "notes": "8 July 2022 No Yes Yes In 3D (conversion) and 2D. Filmed almost entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 35 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "Thor:_Love_and_Thunder",
       "imdbId": "tt10648342"
     },
@@ -790,7 +776,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "27 May 2022 No Yes Yes Filmed entirely with IMAX-certified digital cameras with an aspect ratio opened up to 1.90:1 for 60 minutes. Re-released in IMAX on 24–30 June. Re-released again in IMAX on 12 August. Home-Media retained the expanded Aspect Ratio for IMAX scenes.",
+      "notes": "27 May 2022 No Yes Yes Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opened up to 1.90:1 for 60 minutes. Re-released in IMAX on 24–30 June. Re-released again in IMAX on 12 August. Home-Media retained the expanded Aspect Ratio for IMAX scenes.",
       "sourcePage": "Top_Gun:_Maverick",
       "imdbId": "tt1745960"
     },
@@ -902,7 +888,7 @@
       ],
       "coverage": "full",
       "homeExpandedAvailable": true,
-      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ .",
+      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ .",
       "sourcePage": "Spider-Man:_No_Way_Home",
       "imdbId": "tt10872600"
     },
@@ -1037,7 +1023,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "19 July 2019 No Yes Yes In 3D and 2D. Aspect ratio opened up to 1.43:1 for 25 minutes of musical sequences on select IMAX with Laser GT Venues.",
+      "notes": "19 July 2019 No Yes Yes In 3D and 2D. Filmed entirely with IMAX Arri Alexa cameras. Aspect ratio opened up to 1.43:1 for 25 minutes of musical sequences on select IMAX with Laser GT Venues.",
       "sourcePage": "The_Lion_King_(2019_film)",
       "imdbId": "tt6105098"
     },
@@ -1566,7 +1552,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified digital cameras with an aspect ratio opening up to 1.90:1 for 20 minutes and preserved on home media for IMAX Enhanced on Disney+.",
+      "notes": "No Yes Yes In 3D (conversion) and 2D. Filmed entirely with IMAX-certified Sony CineAlta VENICE cameras with an aspect ratio opening up to 1.90:1 for 20 minutes and preserved on home media for IMAX Enhanced on Disney+ .",
       "sourcePage": "Black_Panther:_Wakanda_Forever",
       "imdbId": "tt9114286"
     },
