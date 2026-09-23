@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T14:02:25.726Z",
+  "generatedAt": "2026-09-23T14:14:39.934Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 106,
+  "count": 107,
   "movies": [
     {
       "pageTitle": "Avengers: Secret Wars",
@@ -101,7 +101,7 @@
       "homeRatios": [],
       "coverage": "unknown",
       "homeExpandedAvailable": false,
-      "notes": "3 November 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues.",
+      "notes": "3 November 2026 No Yes Yes First Japanese live-action film to Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues.",
       "sourcePage": "Godzilla_Minus_Zero",
       "imdbId": "tt34384661"
     },
@@ -301,6 +301,20 @@
       "notes": "19 December 2025 No Yes Yes In 3D and Variable HFR (48fps) 3D. Presented in a theatrical 1.85:1 aspect ratio across all IMAX Venues (with Pillarboxing / Windowboxing). An exclusive 5-minute prologue preview of The Odyssey was attached, with the prologue being shown in an expanded 1.43:1 aspect ratio at select IMAX GT Venues (Film & Laser). The pre-show included a special version ( Star Wars: The Mandalorian and Grogu ) of the IMAX Countdown.",
       "sourcePage": "Avatar:_Fire_and_Ash",
       "imdbId": "tt1757678"
+    },
+    {
+      "pageTitle": "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle",
+      "title": "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle – Part 1: Akaza Returns",
+      "year": 2025,
+      "theatricalRatios": [
+        "1.43:1"
+      ],
+      "homeRatios": [],
+      "coverage": "unknown",
+      "homeExpandedAvailable": false,
+      "notes": "No Yes Yes Released in the U.S. on 12 September 2025 The first Japanese animated feature film to have its expanded 1.43:1 aspect ratio for IMAX GT Laser Venues.",
+      "sourcePage": "Demon_Slayer:_Kimetsu_no_Yaiba_–_The_Movie:_Infinity_Castle",
+      "imdbId": "tt32820897"
     },
     {
       "pageTitle": "F1 (film)",
@@ -1406,7 +1420,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "18 December 2009 Yes Yes Yes In 3D (conversion). Exclusive 1.78:1 aspect ratio. Filmed with the Fusion Camera System . Screened with no end credits in some theaters with older IMAX equipment which had platter size limits. Re-released 23 September 2022 in 4K HDR, with select scenes in HFR (48fps).",
+      "notes": "18 December 2009 Yes Yes Yes In 3D . Exclusive 1.78:1 aspect ratio. Filmed with the Fusion Camera System . Screened with no end credits in some theaters with older IMAX equipment which had platter size limits. Re-released 23 September 2022 in 4K HDR, with select scenes in HFR (48fps).",
       "sourcePage": "Avatar_(2009_film)",
       "imdbId": "tt0499549"
     },
