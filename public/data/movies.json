@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-10-03T14:19:17.207Z",
+  "generatedAt": "2026-10-04T14:47:47.070Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 107,
+  "count": 108,
   "movies": [
+    {
+      "pageTitle": "Incredibles 3",
+      "title": "Incredibles 3",
+      "year": 2028,
+      "theatricalRatios": [
+        "1.43:1",
+        "1.90:1"
+      ],
+      "homeRatios": [],
+      "coverage": "sequences",
+      "homeExpandedAvailable": false,
+      "notes": "16 June 2028 Yes Yes Yes Released in 2D in select territories. Released in 3D in other territories. Aspect ratio opens up to 1.43:1 at IMAX 70mm GT venues, IMAX Laser GT venues, and 1.90:1 at IMAX Digital Venues for select sequences.",
+      "sourcePage": "Incredibles_3",
+      "imdbId": "tt33088418"
+    },
     {
       "pageTitle": "Avengers: Secret Wars",
       "title": "Avengers: Secret Wars",

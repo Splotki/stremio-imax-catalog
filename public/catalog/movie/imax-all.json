@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "tt33088418",
+      "type": "movie",
+      "name": "Incredibles 3",
+      "poster": "https://images.metahub.space/poster/medium/tt33088418/img",
+      "releaseInfo": "2028",
+      "description": "IMAX 1.43:1 / 1.90:1 · secuencias expandidas"
+    },
+    {
       "id": "tt21361444",
       "type": "movie",
       "name": "Avengers: Secret Wars",
