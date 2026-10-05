@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:47:47.070Z",
+  "generatedAt": "2026-10-05T18:28:49.635Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 108,
@@ -224,9 +224,9 @@
         "1.90:1"
       ],
       "homeRatios": [],
-      "coverage": "unknown",
+      "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "16 October 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1.",
+      "notes": "16 October 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for over 60 minutes.",
       "sourcePage": "Street_Fighter_(2026_film)",
       "imdbId": "tt27419420"
     },
