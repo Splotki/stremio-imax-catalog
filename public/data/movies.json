@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:28:49.635Z",
+  "generatedAt": "2026-10-06T15:57:36.384Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 108,
@@ -116,7 +116,7 @@
       "homeRatios": [],
       "coverage": "unknown",
       "homeExpandedAvailable": false,
-      "notes": "3 November 2026 No Yes Yes First Japanese live-action film to Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues.",
+      "notes": "3 November 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues. First non-English film to be presented in 1.43:1 aspect ratio.",
       "sourcePage": "Godzilla_Minus_Zero",
       "imdbId": "tt34384661"
     },
@@ -226,7 +226,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "16 October 2026 No Yes Yes Filmed partially with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for over 60 minutes.",
+      "notes": "16 October 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for 67 minutes.",
       "sourcePage": "Street_Fighter_(2026_film)",
       "imdbId": "tt27419420"
     },
@@ -917,7 +917,7 @@
       ],
       "coverage": "full",
       "homeExpandedAvailable": true,
-      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF cameras. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ .",
+      "notes": "17 December 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Aspect ratio opened up to 1.90:1 for the entire film and preserved on home media for IMAX Enhanced on Sony Pictures Core and Disney+ .",
       "sourcePage": "Spider-Man:_No_Way_Home",
       "imdbId": "tt10872600"
     },
@@ -1612,7 +1612,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "Yes Yes Yes Shot partially with IMAX 65mm cameras and IMAX-certified digital cameras, with select scenes expanded to 1.43:1 at IMAX 70mm GT venues, IMAX Laser GT venues, and 1.90:1 at IMAX Digital Venues for 71 minutes.",
+      "notes": "Yes Yes Yes Select sequences shot with IMAX 65mm cameras and IMAX-certified digital cameras, with select scenes expanded to 1.43:1 at IMAX 70mm GT venues, IMAX Laser GT venues, and 1.90:1 at IMAX Digital Venues for 71 minutes.",
       "sourcePage": "Dune:_Part_Three",
       "imdbId": "tt31378509"
     },
