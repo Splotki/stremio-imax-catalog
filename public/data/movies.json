@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T15:57:36.384Z",
+  "generatedAt": "2026-10-07T16:29:19.517Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
-  "count": 108,
+  "count": 107,
   "movies": [
     {
       "pageTitle": "Incredibles 3",
@@ -90,20 +90,6 @@
       "notes": "5 March 2027 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.90:1 for select sequences.",
       "sourcePage": "The_Thomas_Crown_Affair_(2027_film)",
       "imdbId": "tt5500064"
-    },
-    {
-      "pageTitle": "Avengers: Doomsday",
-      "title": "Avengers: Doomsday",
-      "year": 2026,
-      "theatricalRatios": [
-        "1.90:1"
-      ],
-      "homeRatios": [],
-      "coverage": "full",
-      "homeExpandedAvailable": false,
-      "notes": "18 December 2026 No Yes Yes In 3D (conversion) and 2D. Selected territories only. Filmed entirely with IMAX-certified digital cameras with aspect ratio opened up to 1.90:1 for the entire film.",
-      "sourcePage": "Avengers:_Doomsday",
-      "imdbId": "tt21357150"
     },
     {
       "pageTitle": "Godzilla Minus Zero",
