@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:29:19.517Z",
+  "generatedAt": "2026-10-08T16:29:07.283Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 107,
@@ -100,9 +100,9 @@
         "1.90:1"
       ],
       "homeRatios": [],
-      "coverage": "unknown",
+      "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "3 November 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues. First non-English film to be presented in 1.43:1 aspect ratio.",
+      "notes": "3 November 2026 No Yes Yes Filmed entirely with IMAX-certified digital cameras. Aspect ratio opens up to 1.43.1 at IMAX GT Laser venues and 1.90.1 at IMAX Digital venues for 75 minutes. First non-English film to be presented in 1.43:1 aspect ratio.",
       "sourcePage": "Godzilla_Minus_Zero",
       "imdbId": "tt34384661"
     },
