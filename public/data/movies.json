@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T15:41:47.459Z",
+  "generatedAt": "2026-10-12T19:03:48.339Z",
   "source": "Wikipedia + Wikidata",
   "sourceUrl": "https://en.wikipedia.org/wiki/List_of_films_released_in_IMAX",
   "count": 107,
@@ -759,7 +759,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "22 July 2022 Yes Yes Yes 50 minutes filmed with IMAX 65mm cameras. Home-Media (excl Streaming) retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
+      "notes": "22 July 2022 No Yes Yes 50 minutes filmed with IMAX 65mm cameras. Home-Media (excl Streaming) retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for IMAX scenes.",
       "sourcePage": "Nope_(film)",
       "imdbId": "tt10954984"
     },
@@ -838,7 +838,7 @@
       "homeRatios": [],
       "coverage": "sequences",
       "homeExpandedAvailable": false,
-      "notes": "16 September 2021 Yes Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF . First American feature film to be presented in IMAX Digital 1.43:1. Expanded 1.43:1 aspect ratio at IMAX GT Laser Venues, and 1.90:1 aspect ratio at IMAX Laser and IMAX Digital Venues with 60 minutes of expanded footage. Debuted at the Toronto International Film Festival in IMAX at the Ontario Place Cinesphere on 11 September 2021. Released in the US on 22 October simultaneously in theaters and on HBO Max . Re-released in IMAX on 3 December.",
+      "notes": "16 September 2021 No Yes Yes Released in 2D in North America and select territories. Released in 3D (conversion) in other territories. Filmed entirely with IMAX-certified Arri Alexa LF and Arri Alexa Mini LF . First American feature film to be presented in IMAX Digital 1.43:1. Expanded 1.43:1 aspect ratio at IMAX GT Laser Venues, and 1.90:1 aspect ratio at IMAX Laser and IMAX Digital Venues with 60 minutes of expanded footage. Debuted at the Toronto International Film Festival in IMAX at the Ontario Place Cinesphere on 11 September 2021. Released in the US on 22 October simultaneously in theaters and on HBO Max . Re-released in IMAX on 3 December.",
       "sourcePage": "Dune_(2021_film)",
       "imdbId": "tt1160419"
     },
@@ -1087,7 +1087,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "12 October 2018 Yes Yes Yes 10-minute Lunar Sequence shot with IMAX 65mm cameras and presented in a 1.43:1 aspect ratio for IMAX GT Venues with Laser and 1.90:1 aspect ratio for IMAX Digital. Debuted at the Toronto International Film Festival in IMAX at the Ontario Place Cinesphere on 9 September 2018. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for the Lunar Sequence.",
+      "notes": "12 October 2018 No Yes Yes 10-minute Lunar Sequence shot with IMAX 65mm cameras and presented in a 1.43:1 aspect ratio for IMAX GT Venues with Laser and 1.90:1 aspect ratio for IMAX Digital. Debuted at the Toronto International Film Festival in IMAX at the Ontario Place Cinesphere on 9 September 2018. Home-Media retained the expanded Aspect Ratio in a cropped 1.78:1 (16:9) for the Lunar Sequence.",
       "sourcePage": "First_Man_(film)",
       "imdbId": "tt1213641"
     },
@@ -1225,7 +1225,7 @@
       ],
       "coverage": "sequences",
       "homeExpandedAvailable": true,
-      "notes": "6 May 2016 Yes Yes Yes In 3D (conversion) and 2D. First American feature to be partially filmed with IMAX Arri Alexa cameras with 15 minutes of IMAX footage, presented in a 1.90:1 aspect ratio and preserved on home media for Blu-ray 3D & IMAX Enhanced on Disney+ .",
+      "notes": "6 May 2016 No Yes Yes In 3D (conversion) and 2D. First American feature to be partially filmed with IMAX Arri Alexa cameras with 15 minutes of IMAX footage, presented in a 1.90:1 aspect ratio and preserved on home media for Blu-ray 3D & IMAX Enhanced on Disney+ .",
       "sourcePage": "Captain_America:_Civil_War",
       "imdbId": "tt3498820"
     },
@@ -1255,7 +1255,7 @@
       "homeRatios": [],
       "coverage": "full",
       "homeExpandedAvailable": false,
-      "notes": "9 September 2016 Yes Yes Yes Filmed entirely with IMAX Arri Alexa cameras. Aspect ratio opened up to 1.90:1 for the entire film. The pre-show included a special version of the IMAX Countdown.",
+      "notes": "9 September 2016 No Yes Yes Filmed entirely with IMAX Arri Alexa cameras. Aspect ratio opened up to 1.90:1 for the entire film. The pre-show included a special version of the IMAX Countdown.",
       "sourcePage": "Sully_(film)",
       "imdbId": "tt3263904"
     },
